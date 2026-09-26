@@ -1,60 +1,134 @@
 <div align="center">
 
-# Hi, I'm **muraa-p**
+# hey there ðŸ‘‹
 
-**I find real problems and ship working software â€” with AI coding agents as my implementation layer.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1500&color=8B5CF6&center=true&vCenter=true&width=820&lines=I+turn+ideas+into+working+software%3BI+build+with+AI+agents+as+my+crew%3BProud+parent+of+way+too+many+projects%3BSomeone+has+to+ship+the+next+big+thing&duration=5000&repeat=true" alt="muraa-p" />
 
-[![Profile](https://img.shields.io/badge/github-muraa--p-181717?style=for-the-badge&logo=github)](https://github.com/muraa-p)
+### `muraa-p`
+
+**The handle is a mystery. The projects are not.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-muraa--p-181717?style=for-the-badge&logo=github)](https://github.com/muraa-p)
+[![Since](https://img.shields.io/badge/since-2021-2ea44f?style=for-the-badge)](https://github.com/muraa-p)
 
 </div>
 
 ---
 
-## What I do
+## ðŸ§  so, who is this person?
 
-I'm not a traditional computer-science-track engineer, and I'm not going to pretend otherwise. My process is:
+Honestly? A **problem-obsessed tinkerer** from Somalia who likes taking things apart and putting them back together â€” usually in software.
 
-1. **Find a problem worth solving** â€” usually something I or someone close to me has actually been annoyed by.
-2. **Decide what should exist** â€” scope, stack, data model, what "done" means.
-3. **Direct and review AI coding agents** (Claude Code, Copilot) as they write the code.
-4. **Own the result** â€” I test it, break it, fix it, and decide what ships.
+I don't have a five-year plan. What I do have is a habit of noticing something annoying, deciding it *shouldn't be annoying*, and then building the thing that fixes it. Some of them turn into products. Some of them stay rough around the edges. All of them are mine.
 
-I lean into this openly rather than hiding it. I think what matters isn't *who typed the characters* â€” it's whether the problem was real and whether the thing actually works.
+**The honest part:** I work with AI coding agents as my implementation layer. I decide what gets built, break it when it's wrong, and own the result. I'd rather tell you that up front than have you find out from my commit history.
 
-## Featured work
+```
+the part that matters  ->  was the problem real?  does it actually work?
+the part that doesn't  ->  who typed the code
+```
 
-| Project | What it does | Stack |
+## ðŸ‘¨â€ðŸ‘©â€ðŸ‘§ meet the children
+
+<div align="center">
+
+### <a href="https://siteforge-indol-xi.vercel.app">SiteForge</a> â€” *the confident one*
+<img src="assets/siteforge.png" width="820" alt="SiteForge landing page">
+
+**A website, built in minutes. No code.** A short checklist in, a finished responsive site out. 16 templates, 12 page types, live preview, and you download plain static HTML. No accounts, no backend, no paywall.
+
+[Try it live](https://siteforge-indol-xi.vercel.app) Â· [Source](https://github.com/muraa-p/siteforge)
+
+</div>
+
+<br>
+
+<div align="center">
+
+### <a href="https://noor-guidance.vercel.app">Noor</a> â€” *the thoughtful one*
+<img src="assets/noor-guidance.png" width="820" alt="Noor digital Islamic library landing page">
+
+**A digital Islamic library.** Full Qur'an reader, hadith, stories of the righteous, and daily adhkar â€” in English, Arabic, and Somali. Built to be genuinely useful, not decorative.
+
+[Explore it](https://noor-guidance.vercel.app) Â· [Source](https://github.com/muraa-p/noor-guidance)
+
+</div>
+
+<br>
+
+<div align="center">
+
+### <a href="https://my-public-space.vercel.app">My Public Space</a> â€” *the social one*
+<img src="assets/my-public-space.png" width="820" alt="My Public Space landing page">
+
+**Write. Build. Connect.** A portfolio that behaves like a community â€” follow people, react to posts, comment on ideas, discover what others are making.
+
+[Step inside](https://my-public-space.vercel.app)
+
+</div>
+
+---
+
+## ðŸ§° the rest of the family
+
+| Project | What it is | Stack |
 |---|---|---|
-| **[SiteForge](https://github.com/muraa-p/siteforge)** Â· [Live demo](https://siteforge-indol-xi.vercel.app) | A free website builder for non-technical people â€” 16 templates, 12 page types, live preview, exports plain static HTML. No accounts, no backend. | TypeScript |
-| **[Beacon](https://github.com/muraa-p/beacon)** | Self-hosted uptime monitoring with public status pages. Watch sites and APIs, keep uptime history, publish a status page. | TypeScript, Docker |
-| **[Noor Companion](https://github.com/muraa-p/noor-companion)** | Offline-first Qur'an companion for Android â€” recitation, hasanat tracking, adhkar, the 99 Names, prayer times. | Flutter, Dart |
-| **[Vibe Sandbox](https://github.com/muraa-p/vibe-sandbox)** | Creative-coding playground: generative Web Audio soundscapes, canvas aesthetics, mood journaling. | TypeScript, Web Audio |
-| **[Warehouse POS](https://github.com/muraa-p/point-of-sale-system)** | Offline-first point-of-sale with optional real-time Supabase sync. Keeps selling when the internet doesn't. | Flutter, Supabase |
-| **[Employee Dashboard](https://github.com/muraa-p/employee-management-dashboard)** Â· [Live demo](https://employee-dashboard-gamma-five.vercel.app) | Attendance, leave requests, payroll views, and role-based access for a small team. | Vite, Supabase |
+| **[Beacon](https://github.com/muraa-p/beacon)** | Self-hosted uptime monitoring that publishes a public status page. Zero SaaS bill. | TypeScript, Docker |
+| **[Noor Companion](https://github.com/muraa-p/noor-companion)** | Offline-first Qur'an companion for Android â€” works with zero bars of signal. | Flutter, Dart |
+| **[Vibe Sandbox](https://github.com/muraa-p/vibe-sandbox)** | Generative Web Audio soundscapes, canvas art, and mood journaling. | TypeScript |
+| **[Warehouse POS](https://github.com/muraa-p/point-of-sale-system)** | Point-of-sale that keeps selling when the internet dies. | Flutter, Supabase |
+| **[Group Organizer](https://github.com/muraa-p/organise-us)** | Groups, join links, and QR codes. | TypeScript, Vite |
+| **[FocusFlow](https://github.com/muraa-p/focus-flow)** | Pomodoro timer with streaks and local persistence. | JavaScript |
+| **[Employee Dashboard](https://github.com/muraa-p/employee-management-dashboard)** Â· [live](https://employee-dashboard-gamma-five.vercel.app) | Attendance, leave, payroll. | Vite, Supabase |
 
-## What I reach for
+## ðŸ¼ currently brewing
 
-**Languages** â€” TypeScript Â· JavaScript Â· Dart Â· Python Â· SQL
-**Frontend** â€” React Â· Vite Â· vanilla JS Â· HTML/CSS Â· Canvas
-**Backend & data** â€” Supabase Â· PostgreSQL Â· REST APIs
-**Mobile** â€” Flutter / Android
-**Tooling & infra** â€” Git Â· GitHub Actions Â· Docker Â· Linux
+> Things in the oven. None of these are ready, and that's the fun part.
 
-## Currently
+- ðŸ”¨ **`banadir-redesign`** â€” a full redesign/rebuild in progress
+- ðŸ”¨ **`quran-voice-matcher`** â€” match Quranic recitation to its text
+- ðŸ”¨ **`scholarmatch`** â€” global scholarship discovery for students
+- ðŸ”¨ **`moon-gift`**, **`job portal`**, **`omega-cst`** â€” early sketches
 
-- Building and shipping small, complete products rather than half-finished ones.
-- Open to **freelance work** and interesting collaborations.
-- Happy to talk about AI-assisted development â€” what works, what quietly breaks.
+Follow along if you like watching things get built. Sometimes they turn into something real.
 
-## Get in touch
+## ðŸŽ¨ what I reach for
 
-- GitHub: [@muraa-p](https://github.com/muraa-p)
-- Open to freelance projects, collaborations, and conversations about building in public.
+`TypeScript` `JavaScript` `Dart` `Python` `SQL` `React` `Vite` `Flutter` `Supabase` `PostgreSQL` `Docker` `GitHub Actions` `Linux`
+
+## ðŸŒ™ off the clock
+
+<!-- Hobbies below are placeholders â€” swap in whatever is actually true. -->
+
+- ðŸ§— **[placeholder hobby]** â€” replace me
+- ðŸ² **[placeholder hobby]** â€” replace me
+- ðŸ“– **[placeholder hobby]** â€” replace me
+- ðŸŽ§ **[placeholder hobby]** â€” replace me
+
+> Replace this list with the real you. It'll be more interesting than anything I could guess.
+
+## ðŸ“¡ find me around the web
+
+<!-- Placeholder links. Replace href values with your real profiles. -->
+
+| | |
+|---|---|
+| ðŸ™ **GitHub** | [@muraa-p](https://github.com/muraa-p) |
+| ðŸ¦ **[Twitter/X]** | [coming soon](#) |
+| ðŸ’¼ **[LinkedIn]** | [coming soon](#) |
+| ðŸŒ **[Website]** | [coming soon](#) |
+| âœ‰ï¸ **Email** | [coming soon](#) |
+
+## ðŸ“¬ want to build something?
+
+I like people who have a real problem and a real deadline. If that's you â€” say hi. Freelance, collab, or just an interesting problem to think about, all fine.
 
 ---
 
 <div align="center">
 
-*Built with curiosity, a lot of iteration, and substantial help from AI coding agents.*
+**â­ if something here helped you, a star costs you one click and means a lot.**
+
+<sub>Built with curiosity, unreasonable amounts of iteration, and substantial help from AI coding agents.</sub>
 
 </div>
