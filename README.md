@@ -118,6 +118,19 @@ the part that doesn't  ->  who typed the code
 
 </div>
 
+<br>
+
+<div align="center">
+
+### <a href="https://scholarmatch-kappa.vercel.app/?demo=1">ScholarMatch</a> — *the useful one*
+<img src="assets/scholar-match.png" width="820" alt="ScholarMatch scholarship matching interface">
+
+**Scholarship matching that actually reads your profile.** It scores real awards against your degree, GPA, field and target countries, then shows you exactly what's required, what the money covers, and what gets people rejected. With checklists and application tracking.
+
+[Try it — no signup](https://scholarmatch-kappa.vercel.app/?demo=1) · [Source](https://github.com/muraa-p/scholar-match)
+
+</div>
+
 ---
 
 ## 🧰 the rest of the family
@@ -140,6 +153,7 @@ the part that doesn't  ->  who typed the code
 | **FocusFlow** | [focus-flow-liard-delta.vercel.app](https://focus-flow-liard-delta.vercel.app) |
 | **Grad Portfolio** | [grad-portfolio-cyan.vercel.app](https://grad-portfolio-cyan.vercel.app) |
 | **Group Organizer** | [organise-us-three.vercel.app](https://organise-us-three.vercel.app/login?demo=1) |
+| **ScholarMatch** | [scholarmatch-kappa.vercel.app](https://scholarmatch-kappa.vercel.app/?demo=1) |
 
 ## 🍼 currently brewing
 
