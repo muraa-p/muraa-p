@@ -103,6 +103,23 @@ the part that doesn't  ->  who typed the code
 
 ---
 
+<br>
+
+<div align="center">
+
+### <a href="https://organise-us-three.vercel.app/login?demo=1">Group Organizer</a> — *the organised one*
+<img src="assets/organise-us.png" width="820" alt="Group Organizer dashboard with two seeded events">
+
+**Split any group into balanced teams, automatically.** Create an event, share a join link or QR code, and participants are sorted into even groups as they sign up. No spreadsheet, no manual reshuffling.
+
+[Try it — no signup needed](https://organise-us-three.vercel.app/login?demo=1) · [Source](https://github.com/muraa-p/organise-us)
+
+<sub>Runs in offline demo mode with seeded sample data, so you can click straight into the dashboard.</sub>
+
+</div>
+
+---
+
 ## 🧰 the rest of the family
 
 | Project | What it is | Stack |
@@ -111,7 +128,7 @@ the part that doesn't  ->  who typed the code
 | **[Noor Companion](https://github.com/muraa-p/noor-companion)** | Offline-first Qur'an companion for Android — works with zero bars of signal. | Flutter, Dart |
 | **[Vibe Sandbox](https://github.com/muraa-p/vibe-sandbox)** | Generative Web Audio soundscapes, canvas art, and mood journaling. | TypeScript |
 | **[Warehouse POS](https://github.com/muraa-p/point-of-sale-system)** | Point-of-sale that keeps selling when the internet dies. | Flutter, Supabase |
-| **[Group Organizer](https://github.com/muraa-p/organise-us)** | Groups, join links, and QR codes. | TypeScript, Vite |
+| **[Group Organizer](https://github.com/muraa-p/organise-us)** · [live demo](https://organise-us-three.vercel.app/login?demo=1) | Groups, join links, and QR codes. Runs offline in demo mode. | TypeScript, Vite |
 | **[FocusFlow](https://github.com/muraa-p/focus-flow)** | Pomodoro timer with streaks and local persistence. | JavaScript |
 | **[Employee Dashboard](https://github.com/muraa-p/employee-management-dashboard)** · [live](https://employee-dashboard-gamma-five.vercel.app) | Attendance, leave, payroll. | Vite, Supabase |
 
