@@ -131,13 +131,28 @@ the part that doesn't  ->  who typed the code
 
 </div>
 
+<br>
+
+<div align="center">
+
+### <a href="https://github.com/muraa-p/beacon">Beacon</a> — *the watchful one*
+<img src="assets/beacon.png" width="820" alt="Beacon public status page showing six monitored services">
+
+**Know before your users do.** Beacon checks your sites and APIs on an interval, keeps real uptime history, and publishes a clean public status page. Every outage gets automatic forensics — DNS, TLS, certificate expiry, flapping patterns — so you're told *what happened*, not just that something did.
+
+[Source](https://github.com/muraa-p/beacon) · self-hosted in one command
+
+<sub>Needs a server that stays switched on, so it isn't on a free serverless host. The screenshot is a real instance monitoring five of my other projects.</sub>
+
+</div>
+
 ---
 
 ## 🧰 the rest of the family
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Beacon](https://github.com/muraa-p/beacon)** | Self-hosted uptime monitoring that publishes a public status page. Zero SaaS bill. | TypeScript, Docker |
+| **[Beacon](https://github.com/muraa-p/beacon)** | Self-hosted uptime monitoring with public status pages and automatic incident forensics. | TypeScript, Docker |
 | **[Noor Companion](https://github.com/muraa-p/noor-companion)** | Offline-first Qur'an companion for Android — works with zero bars of signal. | Flutter, Dart |
 | **[Vibe Sandbox](https://github.com/muraa-p/vibe-sandbox)** | Generative Web Audio soundscapes, canvas art, and mood journaling. | TypeScript |
 | **[Warehouse POS](https://github.com/muraa-p/point-of-sale-system)** | Point-of-sale that keeps selling when the internet dies. | Flutter, Supabase |
