@@ -66,6 +66,19 @@ the part that doesn't  ->  who typed the code
 
 <div align="center">
 
+### <a href="https://vibe-sandbox-nine.vercel.app">Vibe Sandbox</a> — *the loud one*
+<img src="assets/vibe-sandbox.png" width="820" alt="Vibe Sandbox generative audio interface">
+
+**Make noise, make art, write it down.** A generative playground: an interactive Web Audio synthesizer, a living canvas that reacts to the sound, and a journal for the thoughts that come out of it. Press play and it never sounds the same twice.
+
+[Open it](https://vibe-sandbox-nine.vercel.app) · [Source](https://github.com/muraa-p/vibe-sandbox)
+
+</div>
+
+<br>
+
+<div align="center">
+
 ### <a href="https://my-public-space.vercel.app">My Public Space</a> — *the social one*
 <img src="assets/my-public-space.png" width="820" alt="My Public Space landing page">
 
@@ -101,6 +114,17 @@ the part that doesn't  ->  who typed the code
 | **[Group Organizer](https://github.com/muraa-p/organise-us)** | Groups, join links, and QR codes. | TypeScript, Vite |
 | **[FocusFlow](https://github.com/muraa-p/focus-flow)** | Pomodoro timer with streaks and local persistence. | JavaScript |
 | **[Employee Dashboard](https://github.com/muraa-p/employee-management-dashboard)** · [live](https://employee-dashboard-gamma-five.vercel.app) | Attendance, leave, payroll. | Vite, Supabase |
+
+### Also live right now
+
+| Project | Live demo |
+|---|---|
+| **Vibe Sandbox** | [vibe-sandbox-nine.vercel.app](https://vibe-sandbox-nine.vercel.app) |
+| **FocusFlow** | [focus-flow-liard-delta.vercel.app](https://focus-flow-liard-delta.vercel.app) |
+| **Grad Portfolio** | [grad-portfolio-cyan.vercel.app](https://grad-portfolio-cyan.vercel.app) |
+| **Banadir Redesign** | [banadir-redesign.vercel.app](https://banadir-redesign.vercel.app) |
+| **Omega CST** | [omega-cst-psi.vercel.app](https://omega-cst-psi.vercel.app) |
+| **Moon Gift** | [moon-gift.vercel.app](https://moon-gift.vercel.app) |
 
 ## 🍼 currently brewing
 
