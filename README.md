@@ -139,18 +139,18 @@ the part that doesn't  ->  who typed the code
 | **Vibe Sandbox** | [vibe-sandbox-nine.vercel.app](https://vibe-sandbox-nine.vercel.app) |
 | **FocusFlow** | [focus-flow-liard-delta.vercel.app](https://focus-flow-liard-delta.vercel.app) |
 | **Grad Portfolio** | [grad-portfolio-cyan.vercel.app](https://grad-portfolio-cyan.vercel.app) |
-| **Banadir Redesign** | [banadir-redesign.vercel.app](https://banadir-redesign.vercel.app) |
-| **Omega CST** | [omega-cst-psi.vercel.app](https://omega-cst-psi.vercel.app) |
-| **Moon Gift** | [moon-gift.vercel.app](https://moon-gift.vercel.app) |
+| **Group Organizer** | [organise-us-three.vercel.app](https://organise-us-three.vercel.app/login?demo=1) |
 
 ## 🍼 currently brewing
 
 > Things in the oven. None of these are ready, and that's the fun part.
 
-- 🔨 **`banadir-redesign`** — a full redesign/rebuild in progress
-- 🔨 **`quran-voice-matcher`** — match Quranic recitation to its text
-- 🔨 **`scholarmatch`** — global scholarship discovery for students
-- 🔨 **`moon-gift`**, **`job portal`**, **`omega-cst`** — early sketches
+- 🔨 **`quran-voice-matcher`** — match a Quranic recitation to its text, word by word
+- 🔨 **`scholarmatch`** — scholarship discovery, now open (see above)
+- 🔨 **`job portal`** — early sketches, mostly wishful thinking so far
+- 🔨 **a few more** — some client work I'll keep quiet about, some experiments that didn't survive
+
+If you like watching things get built, follow along. Sometimes they turn into something real.
 
 Follow along if you like watching things get built. Sometimes they turn into something real.
 
@@ -162,12 +162,11 @@ Follow along if you like watching things get built. Sometimes they turn into som
 
 <!-- Hobbies below are placeholders — swap in whatever is actually true. -->
 
-- 🧗 **[placeholder hobby]** — replace me
-- 🍲 **[placeholder hobby]** — replace me
-- 📖 **[placeholder hobby]** — replace me
-- 🎧 **[placeholder hobby]** — replace me
-
-> Replace this list with the real you. It'll be more interesting than anything I could guess.
+- 📖 **Reading** — used to live here. Still like it, but it's been quiet a while and I honestly don't know why. Might be the algorithm eating my attention. Always open to a recommendation.
+- 🎧 **Sheikh Abdulrashiid Suufi's recitation** — this one I protect time for.
+- 🌸 **Anime** — whatever's good, not whatever's convenient.
+- 🔍 **Crime & investigation shows** — the kind where you start guessing, then blame yourself when it turns out you were wrong.
+- 🧠 **AI, health, and how they overlap** — the intersection of machine learning, medicine, and mental health is the most interesting thing I can find. This is where most of my thinking happens.
 
 ## 📡 find me around the web
 
